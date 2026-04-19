@@ -1,0 +1,30 @@
+dataset/
+dataset_fixed/
+__pycache__/
+*.pyc
+.env
+.vscode/
+
+
+# virtual environment
+.venv/
+
+# dataset (too large for github)
+dataset/
+dataset_fixed/
+
+# python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# jupyter checkpoints
+.ipynb_checkpoints/
+
+# mac system files
+.DS_Store
+
+plots/
+
+# env files
+.env
