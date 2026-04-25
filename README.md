@@ -107,18 +107,6 @@ Acral_Lentiginous_Melanoma     0.97      0.95      0.96       128
 
 ---
 
-## 🖥️ Streamlit App Features
-
-- 📤 Drag-and-drop image upload (JPG, PNG)
-- 🔍 Real-time inference with confidence scores
-- 📊 Probability bar chart across all 4 classes
-- 🚦 Color-coded alerts (green = healthy, yellow = warning, red = danger)
-- 💬 Actionable clinical advice per prediction
-- 🌐 Full Arabic RTL interface
-- 📱 Responsive layout (sidebar + 2-column main view)
-
----
-
 ## 🚀 Quick Start
 
 ### 1. Clone the repo
@@ -201,7 +189,6 @@ nailed-it/
 ## 📄 License
 
 This project is for educational and research purposes.  
-المشروع لأغراض تعليمية وبحثية فقط.
 
 ---
 
