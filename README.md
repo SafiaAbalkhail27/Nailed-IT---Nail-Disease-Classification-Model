@@ -29,10 +29,6 @@
 
 **Nailed It** is a deep learning application that classifies nail images into 4 categories using a fine-tuned **EfficientNetB0** model. Upload a photo of a nail — the model tells you if it looks healthy or flags a potential condition, along with a confidence score and clinical advice.
 
-The app is bilingual (Arabic 🇸🇦 / English 🇬🇧) and deployed via a clean Streamlit interface.
-
-> ⚠️ **Disclaimer:** This tool is for educational and awareness purposes only. It is not a substitute for professional medical advice.
-
 ---
 
 ## 🎯 Classified Conditions
