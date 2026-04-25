@@ -4,11 +4,11 @@ import numpy as np
 from PIL import Image
 from tensorflow.keras.applications.efficientnet import preprocess_input
 
-st.write("test")
+st.write(" ")
 
 st.set_page_config(
     page_title="Nailed It — تشخيص الأظافر",
-    page_icon="💅",
+  #  page_icon="💅",
     layout="wide"
 )
 
